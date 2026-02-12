@@ -1,0 +1,46 @@
+{
+  "name": "science-kidz",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^3.9.0",
+    "@upstash/redis": "^1.32.0",
+    "cloudinary": "^2.2.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.3.8",
+    "input-otp": "^1.2.4",
+    "lucide-react": "^0.395.0",
+    "mongoose": "^8.4.4",
+    "next": "14.2.4",
+    "next-auth": "^4.24.7",
+    "nextjs-toploader": "^1.6.12",
+    "nodemailer": "^6.9.14",
+    "plaiceholder": "^3.0.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-dropzone": "^14.2.3",
+    "react-hook-form": "^7.52.0",
+    "react-type-animation": "^3.2.0",
+    "science-kidz": "file:",
+    "sonner": "^1.5.0",
+    "tailwind-merge": "^2.4.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/nodemailer": "^6.4.15",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
